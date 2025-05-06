@@ -1,0 +1,6 @@
+=== GuessWord Game Start ===
+Players: a vs b
+Word: _______
+Hint: Interconnected computers
+Attempts: 6
+

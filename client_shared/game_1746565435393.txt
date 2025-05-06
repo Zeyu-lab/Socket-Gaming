@@ -1,0 +1,11 @@
+=== GuessWord Game Start ===
+Word: _______
+Hint: Period when a program is running
+Attempts: 6
+
+=== Round End ===
+Result: Lose
+Word: runtime
+Guessed Letters: [a, c, t, e, v, h, j, l]
+Guessed Words: []
+Attempts Left: 0
