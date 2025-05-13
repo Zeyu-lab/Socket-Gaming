@@ -2,12 +2,6 @@
 # Project Name - Hangman Multiplayer Game
 - A complete Hangman game application built in Java. The project supports both terminal-based and GUI-based gameplay with options for single player, multiplayer, and custom word bank editing. The multiplayer mode includes a cooperative guessing system with synchronized turns and game state tracking. Game progress and results are saved locally.
 
-Team Members
-1. Abdul Ghafour Ahmed
-2. Thaddeus Baturensky
-3. Ze Yu Shi
-4. Nathaniel White
-
 ## GUI Screenshot
 1. Single Player mode
 <img width="594" alt="SinglePlayer" src="https://github.com/user-attachments/assets/20dd9d66-1541-4897-b6c3-217f7960ab37" />
