@@ -1,4 +1,4 @@
-/*
+
 package csci2020u.finalproject.cilent;
 
 import javax.swing.*;
@@ -45,5 +45,3 @@ class MultiplayerLobby {
         player2Label.setText(p2 + ": " + shared.getScores().getOrDefault(p2, 0));
     }
 }
-
- */

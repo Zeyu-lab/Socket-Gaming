@@ -1,0 +1,5 @@
+=== GuessWord Game Start ===
+Word: _____
+Hint: Network data structure
+Attempts: 6
+
